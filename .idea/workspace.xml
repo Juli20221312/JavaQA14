@@ -49,6 +49,12 @@
     "last_opened_file_path": "C:/Users/kanban/IdeaProjects/JavaQA13"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test verify" />
+      <command value="mvn clean" />
+    </option>
+  </component>
   <component name="RunManager" selected="JUnit.TicketManagerTest.shouldSearchHMA">
     <configuration name="TicketManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaQA13" />
